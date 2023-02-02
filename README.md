@@ -1,6 +1,6 @@
 # Data-Analyst-Project
 
-This **dynamic dashboard** I created according .
+This **dynamic dashboard** I created according to the business request from the client.
 
 ## Business Request & User Stories
 
